@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - Category - journal.inchan.dev</title>
+    <title>Categories - Category - journal.inchan</title>
     <link>https://journal.inchan.dev/categories/</link>
-    <description>리뷰, 육아 등등</description>
+    <description>육아 팁과 경험, 리뷰, 최신 뉴스와 유용한 정보들을 제공하는 블로그</description>
     <generator>Hugo 0.135.0 &amp; FixIt v0.3.12-456db385</generator>
     <language>en</language>
     <managingEditor>song@inchan.dev (inchan)</managingEditor>
     <webMaster>song@inchan.dev (inchan)</webMaster>
-    <lastBuildDate>Mon, 12 Sep 2022 05:23:04 +0900</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://journal.inchan.dev/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Programming</title>
-      <link>https://journal.inchan.dev/categories/programming/</link>
-      <pubDate>Mon, 12 Sep 2022 05:23:04 +0900</pubDate><author>song@inchan.dev (inchan)</author>
-      <guid>https://journal.inchan.dev/categories/programming/</guid>
-      <description>Programming</description>
-    </item>
   </channel>
 </rss>
