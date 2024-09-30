@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>journal.inchan.dev</title>
-    <link>https://journal.inchan.dev/</link>
+    <title>JavaScript - Tag - journal.inchan.dev</title>
+    <link>https://journal.inchan.dev/tags/javascript/</link>
     <description>리뷰, 육아 등등</description>
     <generator>Hugo 0.135.0 &amp; FixIt v0.3.12-456db385</generator>
     <language>en</language>
     <managingEditor>song@inchan.dev (inchan)</managingEditor>
     <webMaster>song@inchan.dev (inchan)</webMaster>
     <lastBuildDate>Mon, 12 Sep 2022 05:23:04 +0900</lastBuildDate>
-    <atom:link href="https://journal.inchan.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://journal.inchan.dev/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript - basic 변수</title>
       <link>https://journal.inchan.dev/posts/202409301008/</link>
