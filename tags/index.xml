@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags - Tag - journal.inchan.dev</title>
+    <link>https://journal.inchan.dev/tags/</link>
+    <description>리뷰, 육아 등등</description>
+    <generator>Hugo 0.135.0 &amp; FixIt v0.3.12-456db385</generator>
+    <language>en</language>
+    <managingEditor>song@inchan.dev (inchan)</managingEditor>
+    <webMaster>song@inchan.dev (inchan)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://journal.inchan.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
