@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>journal.inchan</title>
-    <link>https://journal.inchan.dev/</link>
+    <title>App - Tag - journal.inchan</title>
+    <link>https://journal.inchan.dev/tags/app/</link>
     <description>육아 팁과 경험, 리뷰, 최신 뉴스와 유용한 정보들을 제공하는 블로그</description>
     <generator>Hugo 0.135.0 &amp; FixIt v0.3.12</generator>
     <language>en</language>
     <managingEditor>song@inchan.dev (inchan)</managingEditor>
     <webMaster>song@inchan.dev (inchan)</webMaster>
     <lastBuildDate>Thu, 10 Oct 2024 13:53:38 +0900</lastBuildDate>
-    <atom:link href="https://journal.inchan.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://journal.inchan.dev/tags/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PopClip 앱이 맥 앱스토어에서 내려갔다.</title>
       <link>https://journal.inchan.dev/posts/202410101108/</link>
